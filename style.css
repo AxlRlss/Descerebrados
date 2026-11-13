@@ -242,7 +242,7 @@ footer a { color: inherit; text-decoration: none; }
 .manifesto { border-color: rgba(189,84,41,.5); background: linear-gradient(120deg, rgba(189,84,41,.13), rgba(255,255,255,.018)); }
 .manifesto ul { list-style: none; padding: 0; margin: 0; }
 .manifesto li { padding: 11px 0 11px 27px; border-top: 1px solid var(--line); position: relative; }
-.manifesto li::before { content: "✳"; position: absolute; left: 0; color: var(--rust-bright); }
+.manifesto li::before { content: "★"; position: absolute; left: 0; color: var(--rust-bright); }
 .bio-sign { padding: 45px 15px; text-align: center; border-top: 1px dashed var(--line); border-bottom: 1px dashed var(--line); }
 .signature-mark { font: 3rem var(--marker); color: var(--rust-bright); }
 .bio-sign p { font: 11px var(--display); letter-spacing: .16em; color: var(--paper-dim); }
